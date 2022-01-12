@@ -1,6 +1,8 @@
 # teams-webhook-weatherbot-sample
 A simple Teams bot to get the weather using an outgoing webhook. The solution comprises of:
 
+![image](https://user-images.githubusercontent.com/472320/149226058-e5b23a26-ab06-4197-a93e-0343ee3fbbf6.png)
+
 - Azure Functions HTTP Trigger (Bot)
 - Outgoing Webhook in a Team
 
